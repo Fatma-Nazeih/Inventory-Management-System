@@ -1,1 +1,2 @@
 # Inventory-Management-System
+This program is an Inventory Management System that allows users to manage products in a shop. It offers a menu with options to add, update, delete, and display all products. Products are stored in a vector, each having a name, description, ID, price, and units in stock. The program checks for valid inputs and ensures no duplicate IDs are added. The user can continue managing products until they choose to exit the program.
